@@ -1,4 +1,4 @@
-- 👋 Myellow! I'm Cottage-Cheeser or Yuki Noda
+- 👋 Howdy! I'm Yuki Noda!
 - 👀 I’m interested in CompSci
 - 🌱 I’m currently learning Javascript & Python & GML & C++
 - 💞️ I’m looking to collaborate on making games!
